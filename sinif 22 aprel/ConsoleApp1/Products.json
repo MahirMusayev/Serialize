@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "IPhone",
+    "Price": 2000.0,
+    "Category": { "Name": "Mahir" }
+  },
+  {
+    "Id": 2,
+    "Name": "Samsung",
+    "Price": 1000.0,
+    "Category": { "Name": "Mahir" }
+  },
+  {
+    "Id": 3,
+    "Name": "Xiami 15",
+    "Price": 200.0,
+    "Category": { "Name": "Mahir" }
+  },
+  {
+    "Id": 4,
+    "Name": "nokia 15",
+    "Price": 40.0,
+    "Category": { "Name": "Mahir" }
+  }
+]

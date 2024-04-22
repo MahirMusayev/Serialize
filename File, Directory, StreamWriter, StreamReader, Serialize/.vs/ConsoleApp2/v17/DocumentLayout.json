@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\File, Directory, StreamWriter, StreamReader, Serialize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF4ED25-3D86-4CF3-BA09-0C76A617EBE0}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\heydar\\desktop\\file, directory, streamwriter, streamreader, serialize\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF4ED25-3D86-4CF3-BA09-0C76A617EBE0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF4ED25-3D86-4CF3-BA09-0C76A617EBE0}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\heydar\\desktop\\file, directory, streamwriter, streamreader, serialize\\consoleapp2\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEF4ED25-3D86-4CF3-BA09-0C76A617EBE0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "names.json",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\File, Directory, StreamWriter, StreamReader, Serialize\\ConsoleApp2\\files\\names.json",
+              "RelativeDocumentMoniker": "ConsoleApp2\\files\\names.json",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\File, Directory, StreamWriter, StreamReader, Serialize\\ConsoleApp2\\files\\names.json",
+              "RelativeToolTip": "ConsoleApp2\\files\\names.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T18:31:31.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\File, Directory, StreamWriter, StreamReader, Serialize\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\File, Directory, StreamWriter, StreamReader, Serialize\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:27:23.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3FGpOtZuvsYhMpA1FERzyclcZB+4+Fb7czfYJCGKu/3xW2myVrx4meBw7llovK0ZnkAJGIiihmrhZ/GBlf2WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Heydar\\Desktop\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heydar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
